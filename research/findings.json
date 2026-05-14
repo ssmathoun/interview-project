@@ -1,0 +1,27 @@
+[
+    {
+      "retailer": "Rouses Markets",
+      "store": "Mandeville (Store 514)",
+      "url": "https://orderonline.rouses.com"
+    },
+    {
+      "retailer": "Brookshire Brothers",
+      "store": "Store 39 (Development)",
+      "url": "https://dev-shop-brookshirebrothers.noq-servers.net"
+    },
+    {
+      "retailer": "Fresh Foods Marketplace",
+      "store": "Cannon Beach",
+      "url": "https://shop.freshfoodsmarketplace.com/online/freshfoodscannonbeach/home"
+    },
+    {
+      "retailer": "Piggly Wiggly (Russell)",
+      "store": "Clay",
+      "url": "https://shop.russellpig.com/online/pigglywigglyclay/home"
+    },
+    {
+      "retailer": "Riesbeck's Food Markets",
+      "store": "Barnesville",
+      "url": "https://www.riesbeckfoods.com/online/riesbecksbarnesville/home"
+    }
+  ]
